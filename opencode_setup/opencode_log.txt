@@ -1,0 +1,21 @@
+OpenCode Setup Documentation
+
+Tool:
+OpenCode 1.18.3
+
+Provider:
+Ollama Local
+
+Model:
+qwen2.5-coder:7b
+
+Environment:
+macOS
+Python 3.11.15
+Jupyter Notebook
+
+OpenCode connection:
+OpenCode + Ollama Local was successfully connected using qwen2.5-coder:7b.
+
+Verification:
+The model was available in OpenCode /connect and used to explain concepts and assist with debugging during the DATAX504 Assignment 1 workflow.
